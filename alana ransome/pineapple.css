@@ -1,0 +1,25 @@
+body{
+    background-color: blue;
+}
+#sally{
+    font-weight:bold;
+    color:darksalmon
+}
+.mega {
+    font-family:cursive;
+}
+section{
+    background-color: lawngreen;
+    cursor: crosshair;
+    transition: all 1s;
+    width: 150px;
+    height: 200px;
+    padding: 1em;
+    border: 1px solid white;
+    margin: 1em; 
+    box-sizing: content-box;
+
+}
+section:active {
+    outline: 5px dashed pink;
+}
