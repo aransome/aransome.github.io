@@ -1,0 +1,23 @@
+#blue{
+    color: blue;
+    background-color: beige;
+}
+#pink{
+    color: deeppink;
+    background-color: indigo;
+}
+#red{
+    color: darkred;
+    background-color: black;
+}
+section{
+   width: auto;
+    padding: 2%;
+   border: 5px solid deeppink;
+    margin: 5em;
+    box-sizing: content-box;
+}
+
+section:active{
+    outline: 5px solid deepskyblue; 
+}
