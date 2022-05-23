@@ -1,5 +1,16 @@
 img{
     width: 30%;
 }
+main{
+    box-sizing: content-box;
+    width:25%;
+    height: 40%;
+    display: inline-block;
+}
+ #text{
+    border: 2px solid black;
+    margin: 5%;
+    padding: 15px;
+}
 
 
