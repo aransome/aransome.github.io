@@ -6,5 +6,19 @@ text-align: center;
 }
    main{
        display: inline-block;
-       
+       margin: 0em 2em;
+
+   }
+   a {
+       color: greenyellow;
+text-decoration: none;
+   }
+   a:hover{
+       color: greenyellow;
+    text-decoration: underline;
+   }
+   section{
+       margin: 10px;
+    outline: 2px solid goldenrod;
+    padding: 5px;
    }
